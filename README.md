@@ -1,4 +1,4 @@
-# React Hooks with Redux Hook
+# React Hooks with Redux Hooks
 
 ## I am a using react-redux v7.1.0-alpha.4
 
